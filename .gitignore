@@ -1,3 +1,7 @@
+wp-content/themes/justynclark/images/
+wp-content/themes/justynclark/video/
+
+
 # Ignore everything in the root except the "wp-content" directory.
 /*
 !.gitignore
@@ -21,7 +25,5 @@ wp-content/themes/*
 !wp-content/themes/justynclark/
 !wp-content/themes/justyn-master/
 
- wp-content/themes/justynclark/images/
- wp-content/themes/justynclark/video/
-
  
+
