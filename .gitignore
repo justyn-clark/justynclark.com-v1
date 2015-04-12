@@ -45,6 +45,7 @@ wp-content/themes/justynclark/video/
 /*
 !.gitignore
 !wp-content/
+!resume/
 
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
